@@ -1,2 +1,2 @@
 # web-design-AB-test
-Code for project 2 Udacity´s Data Analyst Nanodegree
+Code for project 3 Udacity´s Data Analyst Nanodegree
